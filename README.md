@@ -7,9 +7,10 @@
 - [Visuals](#visuals)
 
 ## Description
-Building a fully functional website with the skills I have learned.
+Building a fully functional website with the skills I have learned. Making links work as intended, using semantic elements instead of non-semantic elements.
 
-It is a website written in HTML with a CSS Style Sheet that shows the benefits of using Search Engine Optimization, Managing your online reputation and Social media marketing.
+It is a website written in HTML with a CSS Style Sheet that shows the benefits of using Search Engine Optimization, managing your online reputation and social media marketing.  
+
 
 ## Visuals
 
